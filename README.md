@@ -10,14 +10,14 @@ My name is Noel Miller. I am from Minnesota. For my day job, I currently work at
 
 **Atomic (Image-Based, Immutable) Linux Operating Systems**
 
-- Universal Blue Project
- - Bazzite
- - Bluefin
- - Aurora
- - uCore
-- Fedora Atomic
-- Fedora CoreOS
-- Image Mode for RHEL
+- [Universal Blue Project](https://universal-blue.org)
+  - [Bazzite](https://bazzite.gg)
+  - [Bluefin](https://projectbluefin.io)
+  - [Aurora](https://getaurora.dev/)
+  - [uCore](https://github.com/ublue-os/ucore)
+- [Fedora Atomic Desktops](https://fedoraproject.org/atomic-desktops/)
+- [Fedora CoreOS](https://fedoraproject.org/coreos/)
+- [Image Mode for RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/image-mode)
 
 **Ansible**
 
