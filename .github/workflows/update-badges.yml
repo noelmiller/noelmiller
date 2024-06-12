@@ -13,6 +13,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.3.0
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CREDLY_USER: noel-miller.e1c9e3da
           CREDLY_SORT: RECENT
           BADGE_SIZE: 100
