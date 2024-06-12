@@ -1,0 +1,19 @@
+name: Update badges
+
+on:
+  workflow_dispatch: # run manually
+  schedule:
+    # Runs at 1am UTC on Sunday
+    - cron: "0 1 * * 0"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@2.3.0
+        with:
+          CREDLY_USER: noel-miller.e1c9e3da
+          CREDLY_SORT: RECENT
+          BADGE_SIZE: 100
+          NUMBER_LAST_BADGES: 20

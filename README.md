@@ -35,3 +35,8 @@ My name is Noel Miller. I am from Minnesota. For my day job, I currently work at
 ## Connect with me!
 
 My [blog](https://noelmiller.dev/pages/contact) has all of the relevant social medias that you can connect with me on!
+
+## Certifications
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
