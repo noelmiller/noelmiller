@@ -1,6 +1,6 @@
 # Greetings!
 
-My name is Noel Miller. I am from Minnesota. For my day job, I currently work at Red Hat as a Ansible Technical Account Manager. In my free time, I work with the Universal Blue Project as a Contributor and Project Manager.
+My name is Noel Miller. I am from Minnesota. For my day job, I currently work at Red Hat as a Ansible Technical Account Manager. In my free time, I work on [Bazzite](https://bazzite.gg) and I am a host of the [Fedora Podcast](https://podacst.fedoraproject.org).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=noelmiller&show_icons=true&theme=transparent" />
@@ -10,11 +10,7 @@ My name is Noel Miller. I am from Minnesota. For my day job, I currently work at
 
 **Atomic (Image-Based, Immutable) Linux Operating Systems**
 
-- [Universal Blue Project](https://universal-blue.org)
-  - [Bazzite](https://bazzite.gg)
-  - [Bluefin](https://projectbluefin.io)
-  - [Aurora](https://getaurora.dev/)
-  - [uCore](https://github.com/ublue-os/ucore)
+- [Bazzite](https://bazzite.gg)
 - [Fedora Atomic Desktops](https://fedoraproject.org/atomic-desktops/)
 - [Fedora CoreOS](https://fedoraproject.org/coreos/)
 - [Image Mode for RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/image-mode)
@@ -24,6 +20,8 @@ My name is Noel Miller. I am from Minnesota. For my day job, I currently work at
 **Containers**
 
 **Openshift (and Kubernetes)**
+
+**Podcasting**
 
 ## Certifications
 
