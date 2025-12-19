@@ -1,6 +1,10 @@
 # Greetings!
 
-My name is Noel Miller. I am from Minnesota. For my day job, I currently work at Red Hat as a Dedicated operations Technical Account Manager. In my free time, I work on [Bazzite](https://bazzite.gg)
+My name is Noel Miller. I am from Minnesota. 
+
+For my day job, I currently work at Red Hat as a Dedicated operations Technical Account Manager. 
+
+In my free time, I work on [Bazzite](https://bazzite.gg).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=noelmiller&show_icons=true&theme=transparent" />
