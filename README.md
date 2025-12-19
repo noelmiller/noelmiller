@@ -1,6 +1,6 @@
 # Greetings!
 
-My name is Noel Miller. I am from Minnesota. For my day job, I currently work at Red Hat as a Ansible Technical Account Manager. In my free time, I work on [Bazzite](https://bazzite.gg) and I am a host of the [Fedora Podcast](https://podacst.fedoraproject.org).
+My name is Noel Miller. I am from Minnesota. For my day job, I currently work at Red Hat as a Dedicated operations Technical Account Manager. In my free time, I work on [Bazzite](https://bazzite.gg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=noelmiller&show_icons=true&theme=transparent" />
@@ -19,7 +19,7 @@ My name is Noel Miller. I am from Minnesota. For my day job, I currently work at
 
 **Containers**
 
-**Openshift (and Kubernetes)**
+**Kubernetes**
 
 **Podcasting**
 
@@ -41,4 +41,4 @@ My name is Noel Miller. I am from Minnesota. For my day job, I currently work at
 
 ## Connect with me!
 
-My [blog](https://noelmiller.dev/pages/contact) has all of the relevant social medias that you can connect with me on!
+My [blog](https://noelmiller.dev/pages/connect) has all of the relevant social medias that you can connect with me on!
